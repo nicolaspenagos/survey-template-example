@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\Template\modelo\bin\Debug\modelo.exe.config
+C:\Users\usuario\source\repos\Template\modelo\bin\Debug\modelo.exe
+C:\Users\usuario\source\repos\Template\modelo\bin\Debug\modelo.pdb
+C:\Users\usuario\source\repos\Template\modelo\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Template\modelo\obj\Debug\modelo.exe
+C:\Users\usuario\source\repos\Template\modelo\obj\Debug\modelo.pdb

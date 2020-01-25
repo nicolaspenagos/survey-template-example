@@ -1,0 +1,4 @@
+Carlos;Quiceno;20;9;True;
+Nicolas;Penagos;21;6;False;
+Valentina;Garcia;19;6;True;
+

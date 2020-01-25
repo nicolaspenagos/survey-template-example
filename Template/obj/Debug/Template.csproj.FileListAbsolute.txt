@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Template\Template\bin\Debug\Template.exe.config
+C:\Users\usuario\source\repos\Template\Template\bin\Debug\Template.exe
+C:\Users\usuario\source\repos\Template\Template\bin\Debug\Template.pdb
+C:\Users\usuario\source\repos\Template\Template\obj\Debug\Template.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Template\Template\obj\Debug\Template.Properties.Resources.resources
+C:\Users\usuario\source\repos\Template\Template\obj\Debug\Template.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Template\Template\obj\Debug\Template.exe
+C:\Users\usuario\source\repos\Template\Template\obj\Debug\Template.pdb
+C:\Users\usuario\source\repos\Template\Template\obj\Debug\Template.Form1.resources
+C:\Users\usuario\source\repos\Template\Template\bin\Debug\modelo.exe
+C:\Users\usuario\source\repos\Template\Template\bin\Debug\modelo.pdb
+C:\Users\usuario\source\repos\Template\Template\bin\Debug\modelo.exe.config
+C:\Users\usuario\source\repos\Template\Template\obj\Debug\Template.csproj.CopyComplete
